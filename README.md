@@ -61,8 +61,6 @@ Coupling (dB) = 10 log10 PC1/ PH = -10 log10 PC2/ PH.
 The difference in the attenuator settings gives the ration of the
 power coupled to thecollinear to that in the main arm, in dB. This value is around 3dB.
 
-**F.	Observation: ( Include your own Table relevant to the Experiment)**
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/12578d7a-82d9-466b-9c75-aea9bd6e2385" />
 
 
 
